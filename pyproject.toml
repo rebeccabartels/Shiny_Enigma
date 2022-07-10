@@ -19,5 +19,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/rebeccabartels/Shiny_Enigma"
+"Bug Tracker" = "https://github.com/rebeccabartels/Shiny_Enigma/blob/master/issues"
